@@ -15,6 +15,7 @@
 - 3.2.2
 - 3.2.1
 - 3.2.0
+- 3.11.1
 {% endload -%}
 
 {# With v3.2.0 the legacy exe installer was discontinued in favor of the MSI installer.
